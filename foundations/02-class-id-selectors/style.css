@@ -1,5 +1,5 @@
 
-p {
+.odd {
     background-color: #ff004c;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
@@ -9,10 +9,11 @@ p {
     font-size: 36px;
 }
 
-
+.font-size {
+    font-size: 24px;
+}
 
 #four {
-    color: #90ee90;
-    font-size: 24px;
+    background-color: #90ee90;
     font-weight: bold;
 }
